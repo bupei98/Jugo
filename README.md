@@ -7,3 +7,11 @@ Jugo是一款采用了Client/Server架构，旨在同时提高信息安全行业
 
 ## JugoServer
 **Jugo服务端**采用Docker方式部署，对正规合法的安全团队可以拉取服务端Image部署属于自己的服务端功能。
+安全团队合作Email: bupei98@gmail.com
+
+## CHANGLOG
+### Client
+
+
+
+### Server
