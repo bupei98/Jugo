@@ -10,6 +10,26 @@ Jugo是一款采用了Client/Server架构，旨在同时提高信息安全行业
 
 :email:	bupei98@gmail.com
 
+## Thanks
+- [go](https://github.com/golang/go)
+- [ProxyPool](https://github.com/henson/ProxyPool)
+- [nmap](https://github.com/nmap/nmap)
+- [httpx](https://github.com/projectdiscovery/httpx)
+- [fastapi](https://github.com/tiangolo/fastapi)
+- [naabu](https://github.com/projectdiscovery/naabu)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## :date:	CHANGLOG
 ### :blue_book:	Client
 
