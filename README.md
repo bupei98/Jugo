@@ -1,6 +1,6 @@
 <h1 align="center">Jugo 更易用的信息收集工具 😉</h1>
 
-## Demo
+## :dizzy: Demo
 
 
 ## :flashlight: About
