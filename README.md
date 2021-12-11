@@ -6,6 +6,9 @@
 ### Usage
 `JugoClient -t <example.com>`
 
+### Result
+
+
 
 ## :flashlight: About
 Jugo是一款采用了`Client/Server`架构，旨在同时提高信息安全行业、渗透测试领域的主被动信息收集广度与深度的实用辅助工具。
